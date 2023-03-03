@@ -79,7 +79,7 @@ function questionClick(event) {
     // display new time on page
     timerEl.textContent = time;
 
-    // play "wrong" sound effect
+    // play "incorrect" sound effect
     sfxWrong.play();
 
     feedbackEl.textContent = 'Wrong!';
