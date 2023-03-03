@@ -9,4 +9,4 @@ This is a quiz to test your coding knowledge
 
 ![Screenshot 2023-03-02 205932](https://user-images.githubusercontent.com/109124708/222636211-9d17f81b-36e0-4941-8752-c0e771c673ba.png)
 
- https://cam1024.github.io/Coding-quiz-with-highscores/
+ https://cam1024.github.io/Coding-quiz/
