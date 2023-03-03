@@ -54,7 +54,7 @@ function getQuestion() {
 
     choiceNode.textContent = i + 1 + '. ' + choice;
 
-    // display on the page
+    // display choice on the page 
     choicesEl.appendChild(choiceNode);
   }
 }
@@ -70,7 +70,7 @@ function questionClick(event) {
   // check if user guessed wrong
   if (buttonEl.value !== questions[currentQuestionIndex].answer) {
     // penalize time
-    time -= 15;
+    time -= 5;
 
     if (time < 0) {
       time = 0;
